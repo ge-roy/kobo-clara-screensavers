@@ -3,7 +3,7 @@
 
 This repository contains a set of images optimized for Kobo Clara e-ink readers and prepared for use as sleep screen (screensaver) wallpapers.
 
-Resolution: **1072×1448** (native Kobo Clara BW screen resolution)
+Resolution: **1072×1448** (native Kobo Clara BW screen resolution).
 
 When redistributing or reusing these images, please include attribution similar to the example below:
 
@@ -18,7 +18,7 @@ Licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
 ./images/clara-bw/ - screensaver images  
 ./preview/ - preview thumbnails for the README
 
-# Preview
+## Preview
 
 |                                                                     |                                                         |
 | ------------------------------------------------------------------- | ------------------------------------------------------- |
