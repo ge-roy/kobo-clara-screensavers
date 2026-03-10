@@ -20,10 +20,10 @@ Licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
 
 # Preview
 
-|                                                              |                                                  |
-| ------------------------------------------------------------ | ------------------------------------------------ |
-| ![Reading on the hill](preview/kobo_reading_on_the_hill.jpg) | ![Forest night](preview/kobo_forest_night.jpg)   |
-| ![Voyager](preview/kobo_probe_voyager.jpg)                   | ![KOreader time](preview/kobo_koreader_calm.jpg) |
+|                                                                     |                                                         |
+| ------------------------------------------------------------------- | ------------------------------------------------------- |
+| ![Reading on the hill](images/preview/kobo_reading_on_the_hill.jpg) | ![Forest night](images/preview/kobo_forest_night.jpg)   |
+| ![Voyager](images/preview/kobo_probe_voyager.jpg)                   | ![KOreader time](images/preview/kobo_koreader_calm.jpg) |
 
 ## How to install
 
